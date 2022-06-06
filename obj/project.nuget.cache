@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "axfozXwpwg9HDrT2vJeO44HjO3q9JhqyEA1pXiphyofCLTyhNz91dATRBYQP4Y+DIv8c/1wqnhuyzcxdl9LoIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\szz\\Source\\Repos\\Three\\Three.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\szz\\.nuget\\packages\\buildbundlerminifier\\3.2.435\\buildbundlerminifier.3.2.435.nupkg.sha512"
+  ],
+  "logs": []
+}
